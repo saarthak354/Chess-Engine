@@ -2,6 +2,6 @@
 Creating a Chess Engine in Python from scratch
 
 
-Authors-
+Authors-<br>
 Saarthak Singh <br>
 Rahul Bairagi
